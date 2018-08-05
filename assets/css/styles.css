@@ -1,3 +1,10 @@
+:root {
+  --red: #f78080;
+  --grn: #d3f9ae;
+  --yellow: #fcfc83; }
+
 .container {
-  color: red;
-}
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: var(--grn); }
