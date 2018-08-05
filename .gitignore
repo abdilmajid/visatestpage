@@ -1,3 +1,4 @@
 log.txt
 prepros-6.config
-/fonts
+/assets/fonts
+*.ttf

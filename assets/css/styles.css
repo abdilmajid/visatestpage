@@ -8,3 +8,7 @@
   display: -ms-flexbox;
   display: flex;
   color: var(--grn); }
+
+.nav a {
+  text-decoration: none;
+  list-style: none; }
